@@ -1,4 +1,4 @@
-# Rocketseat 2019 - Node.js and RabbitMQ
+# Node.js and RabbitMQ
 RPC Implementations with RabbitMQ
 
 But what if we need to run a function on a remote computer and wait for the result? This pattern is commonly known as Remote Procedure Call or RPC.
